@@ -2,6 +2,10 @@
 
 Instant Market is a web-based marketplace platform designed specifically for GMU students to buy and sell items within the university community. The platform facilitates the exchange of textbooks, electronics, furniture, and other essentials, making it easier for students to find what they need at affordable prices.
 
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/github-pratik/GMU_Instant_Market/blob/main/instant_market.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Features
 
 - User Authentication (Student/Seller roles)
